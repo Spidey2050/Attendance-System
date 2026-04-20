@@ -102,4 +102,5 @@ No license specified.
 
 ## 👤 Author
 GitHub: https://github.com/Spidey2050
+        https://github.com/aaratrikpaul24
 
