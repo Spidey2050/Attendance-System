@@ -1,0 +1,8 @@
+Roll No   : ADMIN001
+Password  : admin123
+Role      : admin
+http://localhost:5173/login
+
+(venv) PS C:\Users\aarat\OneDrive\Desktop\8thsemproject\face-auth\python_service> uvicorn app:app --port 8000
+PS C:\Users\aarat\OneDrive\Desktop\8thsemproject\face-auth\backend> npm run dev
+PS C:\Users\aarat\OneDrive\Desktop\8thsemproject\face-auth\frontend> npm run dev
